@@ -4,7 +4,9 @@ This report is about identifying undervalued companies using finviz,
 the analysis was conducted based on specific financial metrics and projected 
 future values using Comparable Company Analysis. This report outlines the analysis 
 process and includes a brief explanation of the additional variablea considered, 
-justifying their impact on each company's value
+justifying their impact on each company's value. 
+
+NOTE: Download the report from the file above to see well detailed explanations on the project. 
 
 OBJECTIVE
 
