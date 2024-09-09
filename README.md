@@ -20,6 +20,7 @@ Above 50. The model used to determine the undervalued company, is the Relative V
 Model. The financial metrics to be used for this selection are: P/E, P/B, EV/EBITDA. 
 
 VALUATION MODEL
+
 To project the future gross profit and future market capitalization of the companies for each
 company over a period of four years, apply the formula below:
 
