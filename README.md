@@ -24,6 +24,21 @@ VALUATION MODEL
 To project the future gross profit and future market capitalization of the companies for each
 company over a period of four years, apply the formula below:
 
+Formulas:
+
+Future Gross Profit (GP):
+
+Future GP = Current GP ✕ (1+ 𝐺𝑃𝐺/100)ⁿ 
+
+Future Market Capitalization (GP-based):
+
+Future Market Cap (GP-based) = Current Market Cap ✕ (𝐹𝑢𝑡𝑢𝑟𝑒 𝐺𝑃/𝐶𝑢𝑟𝑟𝑒𝑛𝑡 𝐺𝑃 )
+
+Given the current gross profits (GP) and average gross profit growth rates (GPG), let's project
+the GP for 4 years.
+
+Answers using excel to calculate
+
 ![finviz1](https://github.com/user-attachments/assets/9036545f-698d-4f68-bb83-d508bcaa967a)
 
 
